@@ -1,0 +1,14 @@
+layout_spectrum: 0.5160601323004812
+typography_spectrum: 0.5075690480880439
+color:
+  brandStrength: 0.5995011257473379
+  lightness: 0.8957472920883447
+  saturation: 0.29752730624750257
+  rhythmicContrast: 0.45755338622257113
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Poematics
