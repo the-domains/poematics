@@ -1,4 +1,3 @@
-layout_spectrum: 0.5160601323004812
 typography_spectrum: 0.5075690480880439
 color:
   brandStrength: 0.5995011257473379
@@ -11,4 +10,9 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
+layout_spectrum: 0.5160601323004812
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6211e3cc-bab3-47c4-939c-44c512d4a2e3.jpg
 name: Poematics
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61a0ec0a-c233-45e5-bcaf-39c38a897e18.png
